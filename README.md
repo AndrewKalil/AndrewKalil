@@ -9,4 +9,3 @@ Here are some ideas to get you started:
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... [Personal page](andrewkalil.github.io)
 - ⚡ Fun fact: ... Cooking is one of my hobbies.
--->
